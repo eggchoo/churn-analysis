@@ -3,13 +3,13 @@
 This project was conducted to understand the **reasons for customer churn** in a telecommunications industry and use machine learning to **predict future churners**. The goal of this project is to _**draw a profile of current and future churner**_ and provide insights and recommendations to _**reduce the churn rate**_ for the company. 
 
 ---
-### Metrics 
+## Metrics 
 - _**Total customers**_
 - _**Total churn & Churn rate**_
 - _**New joiners**_
   
 --- 
-### Goals for this project
+## Goals for this project
 _**Targeting Churner profile**_ by analyze customer data at below levels:
 - _**Demographic**_
   - Gender
