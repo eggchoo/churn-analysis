@@ -22,11 +22,11 @@
   - churn category, churn reason
 
 2. _**Predicting future churners**_
-3. _**provide business insights and recommendations to stakeholders**_
+3. _**Provide business insights and recommendations to stakeholders**_
 
 ---
 ## Data structure 
-The dataset contains information about 6,418 customers of a telecommunications company. The dataset comprises 34 variables, each capturing different aspects of customer behavior and demographics.
+The dataset contains information about _**6,418 customers of a telecommunications company**_. The dataset comprises 34 variables, each capturing different aspects of customer behavior and demographics.
 
 The dataset had 2 main tables: 
 - _**prod_churn**_ is a table of _**all customers**_ including customers who were _**retained, churned, and newly joined**_.
