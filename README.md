@@ -36,7 +36,9 @@ The dataset had 2 main tables:
 
 ![ERD](https://github.com/eggchoo/churn-analysis/blob/main/ERD.png?raw=true)
 ---
+
 **[View the Power BI Interactive Dashboard here](https://app.powerbi.com/links/dV7FDMM88M?ctid=6f0bb72f-5377-4ddf-936a-b6c72bf21ae2&pbi_source=linkShare&bookmarkGuid=a8e6f4a7-8f13-4535-a8f2-f4912f82b294)**
+
 --- 
 ## **Executive Summary**
 - This report provides an integrated overview of customer churn within the telecom company, combining insights from both _**historical churn analysis**_ and _**predictive modeling**_.  
